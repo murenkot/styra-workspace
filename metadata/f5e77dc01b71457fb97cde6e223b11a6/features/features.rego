@@ -21,4 +21,4 @@ package metadata.f5e77dc01b71457fb97cde6e223b11a6.features
 # } 
 
 # For more infomation, see https://docs.styra.com/policies/policy-organization/stacks/overview#feature-flags 
-erfwds = 9
+erfwds = 10
